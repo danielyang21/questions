@@ -1,4 +1,4 @@
-1. Determine pombinations
+1. Determine combinations
 
    We choose 1 of the $f$ girls to be the president: $\binom{f}{1}=f$
 
