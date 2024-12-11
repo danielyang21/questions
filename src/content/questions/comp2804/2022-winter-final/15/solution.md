@@ -8,7 +8,7 @@ under same logic we can say for Pr(B=a2>a3) = 1/2.
 
 Similarly for Pr(A intersect B ) = 1/3! = 1/6. because under only 1 condition a1>a2>a3 and swapping there values will lead to something else compared to the condition we want.
 
-so we can see Pr(A intersect B) < Pr(A) * Pr(B)
+so we can see Pr(A intersect B) < Pr(A) \* Pr(B)
 
 what for the big numbers now ? like n = 100 or 200 instead of 3?
 
